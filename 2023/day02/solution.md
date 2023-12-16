@@ -15,7 +15,8 @@
        - last modified date / time of the content
        - file or directory name
 
-![Uploading ls -l.png…]()
+![image](https://github.com/pkutlehria/90DaysOfDevOps/assets/90909496/c5702139-3db6-4854-a8d8-0f2170edb3eb)
+
 
 
 
