@@ -23,13 +23,13 @@
 
 ![ls -a](https://user-images.githubusercontent.com/76457594/210223013-9353abf0-159c-4797-a19f-3b78a8d4ef00.png)
 
-- ```ls *.sh``` -->
+- ```ls *.sh``` --> It is used to list all the files that have the extension .sh .
 
 
 ![ls * sh](https://user-images.githubusercontent.com/76457594/210223067-f5c3a5bf-09b4-4525-90e7-9ce61186ae2e.png)
 
 
-- ```ls -i ``` --> List the files and directories with index numbers in oders
+- ```ls -i ``` --> List the files and directories with index numbers in orders
 
 ![ls-i](https://user-images.githubusercontent.com/76457594/210225502-946551c7-fd81-402b-b8ce-091792e24c44.png)
 
@@ -41,7 +41,7 @@
 ![ls-d*](https://user-images.githubusercontent.com/76457594/210223178-f7097a96-31b1-4c98-8b81-2e5b0e3a7bb7.png)
 
 
-## Directoy commands
+## Directory commands
 - ```pwd``` --> Print work directory. Gives the present working directory.
 
 ![pwd](https://user-images.githubusercontent.com/76457594/210223234-e5f3a48c-1b08-4bce-943e-4fed50a12700.png)
@@ -59,7 +59,7 @@
 ![cd -](https://user-images.githubusercontent.com/76457594/210223414-d6333b9c-21cb-4053-abb9-871bbca5db08.png)
 
 
-- ``` cd ..``` --> Chnage directory to one step back.
+- ``` cd ..``` --> Change the directory to one step back.
 
 ![cd](https://user-images.githubusercontent.com/76457594/210223531-956598ad-301c-486a-b02e-6e69c4104adb.png)
 
